@@ -1,9 +1,8 @@
 
-![image](https://github.com/ling-notion/ling-notion/assets/156030685/d754e0ec-b028-45e0-8f59-3fd1a84d0753)
+![image](https://github.com/ling-notion/ling-notion/assets/156030685/9e14b608-c643-47e5-bd20-4681239584f9)
 
 - Hi, ✨ I’m Ling! ✨
 - 🤖 Product engineer at Notion (React/TypeScript/Node)!
-
 - Currently on the Activation-Expansion team. 🍄 🌱
 - ☃️ I'm originally from Canada, and I went to school at the University of Toronto.
 - 👀 I like: nice people, running, nice weather, my puppy Nari!
