@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ling-notion
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+![image](https://github.com/ling-notion/ling-notion/assets/156030685/d754e0ec-b028-45e0-8f59-3fd1a84d0753)
+
+- Hi, ✨ I’m Ling! ✨
+- 🤖 Product engineer at Notion (React/TypeScript/Node)!
+
+- Currently on the Activation-Expansion team. 🍄 🌱
+- ☃️ I'm originally from Canada, and I went to school at the University of Toronto.
+- 👀 I like: nice people, running, nice weather, my puppy Nari!
+- 📫 How to reach me: ling@makenotion.com.
 
 <!---
 ling-notion/ling-notion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
