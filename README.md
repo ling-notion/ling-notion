@@ -3,7 +3,7 @@
 - 🤖 Product engineer at Notion (React/TypeScript/Node)!
 - Currently on the Activation-Expansion team. 🍄 🌱
 - ☃️ I'm originally from Canada, and I went to school at the University of Toronto.
-- 👀 I like: nice people, running, nice weather, my puppy Nari!
+- 👀 I like: nice people, running, nice weather, my puppy Nari 🐶, and soju!
 - 📫 How to reach me: ling@makenotion.com.
 
 <!---
